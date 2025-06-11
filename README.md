@@ -4,6 +4,11 @@
 
 Puzzle Game is an interactive brain teaser that challenges players to solve increasingly complex puzzles by manipulating pieces on a grid. The game features multiple difficulty levels, a scoring system, and visually appealing graphics that enhance the player experience.
 
+```bash
+python3 -m pip install -U pygame --user
+python puzzle_game.py
+```
+
 ## Table of Contents
 
 - [Game Development with AI](#game-development-with-ai)
