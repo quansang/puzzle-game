@@ -194,3 +194,22 @@ Developing this puzzle game with AI assistance dramatically accelerated the deve
 The most valuable lesson was learning how to effectively collaborate with AI—knowing when to ask for help with complex algorithms versus when to implement simpler features myself. This balanced approach resulted in a polished game that performs well and provides an engaging player experience.
 
 Future improvements could include more puzzle types, online multiplayer features, and additional accessibility options. The foundation built with AI assistance provides a solid platform for these enhancements.
+
+## Other
+
+```
+q --brief "Explain something briefly"
+q --save-chat some_chat
+q --code "Only write something"
+/editor promt multiple lines or paste code
+/save
+/load conversion
+
+https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html
+Linux SSH (No GUI)
+https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing-ssh-setup-autocomplete.html
+Note: Standard version (glibc 2.34+) - glibc >= 2.34.
+Error: Ubuntu with 2.35 version -> install: Musl version (for glibc < 2.34)
+
+q
+```
